@@ -1,0 +1,29 @@
+
+###
+
+GET http://localhost:8081/reset
+
+###
+
+GET http://localhost:8081/deposit
+
+###
+
+GET http://localhost:8081/withdraw
+
+###
+
+GET http://localhost:8081/deposit
+
+###
+
+GET http://localhost:8081/withdraw
+
+###
+
+GET http://localhost:8081/account
+
+###
+
+#GET http://localhost:8081/account-failed
+

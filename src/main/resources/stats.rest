@@ -1,0 +1,6 @@
+
+GET http://localhost:8081/stats
+
+###
+
+GET http://localhost:8081/clear
